@@ -18,18 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jonas Renault
+title: Anqi Shao
 title_separator: "|"
-name: Jonas Renault
-email: jonasrenault@gmail.com
+name: Anqi Shao
+email: anqi.shao@wisc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Jonas Renault - Research Engineer, Senior Fullstack Developer, Project Manager
-domain: jrenault.fr
+  Anqi Shao - PhD Candidate, Life Sciences Communication
+domain: anqishao.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jrenault.fr" # the base hostname & protocol for your site, e.g. http://example.com
-repository: "jonasrenault/jonasrenault.github.io"
-twitter_username: jonasrza
-github_username:  jonasrenault
+url: "https://anqishao.com" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "uless/uless.github.io"
+twitter_username: anqishao_
+github_username:  uless
 
 # Build settings
 # remote_theme: mmistakes/minimal-mistakes@4.26.1
@@ -38,23 +38,23 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Author
 author:
-  name             : "Jonas Renault"
-  avatar           : "/assets/images/bio-photo-2.jpg"
-  bio              : "Research Engineer / Senior Fullstack Developer"
-  location         : "France"
+  name             : "Anqi Shao"
+  avatar           : "/assets/images/bio-photo-2.jpg" 
+  bio              : "PhD Candidate"
+  location         : "Wisconsin, United States"
   employer         :
-  email            : "jonasrenault@gmail.com"
-  github           : "jonasrenault"
+  email            : "anqi.shao@wisc.edu"
+  github           : "uless"
 
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jonasrenault"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/jonasrza"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://x.com/anqishao_"
+    #- label: "Instagram"
+     # icon: "fab fa-fw fa-instagram"
+     # url: "https://instagram.com/jonasrza"
 
 
 # Defaults
